@@ -9,4 +9,5 @@ The app uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to get th
 - Users can convert between different currencies.
 - Users can view the exchange rate of a currency pair.
 
-
+## Visit the live app
+[currency-exchange](https://21gxme.github.io/currency-exchange/)
